@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 407,
-    "timeWeek": 407,
-    "timeMonth": 407,
-    "timeYear": 407,
+    "time": 5919,
+    "timeDay": 5919,
+    "timeWeek": 5919,
+    "timeMonth": 5919,
+    "timeYear": 5919,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://gcli2api-tewi.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gcli2api-tewi.onrender.com.ico",
     "slug": "gcli2api",
-    "status": "down",
-    "uptime": "4.43%",
-    "uptimeDay": "4.43%",
-    "uptimeWeek": "4.43%",
-    "uptimeMonth": "4.43%",
-    "uptimeYear": "4.43%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.31%",
+    "uptimeDay": "0.31%",
+    "uptimeWeek": "0.31%",
+    "uptimeMonth": "0.31%",
+    "uptimeYear": "0.31%",
+    "time": 1044,
+    "timeDay": 1044,
+    "timeWeek": 1044,
+    "timeMonth": 1044,
+    "timeYear": 1044,
     "dailyMinutesDown": {
-      "2026-03-30": 0
+      "2026-03-30": 17
     }
   }
 ]
