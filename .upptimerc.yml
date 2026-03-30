@@ -6,7 +6,7 @@ sites:
   - name: grok2api
     url: https://grok2api-xeo2.onrender.com
   - name: gcli2api
-    url: https://gcli2api-tewi.onrender.com/
+    url: https://gcli2api-tewi.onrender.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
