@@ -2,7 +2,7 @@
 owner: beyotang # Your GitHub organization or username, where this repository lives
 repo: uptimerender # The name of this repository
 workflowSchedule:
-  uptime: "*/10 * * * *"
+  uptime: "*/1 * * * *"
   
 sites:
   - name: grok2api
